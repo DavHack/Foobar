@@ -5,13 +5,14 @@
 
 Welcome to Foobar's documentation!
 ==================================
+.. include:: foo.rst
+.. include:: bar.rst
 
 .. toctree::
    :maxdepth: 2
 
-   foo
-   bar
-
+   foo.rst
+   bar.rst
 
 Indices and tables
 ==================

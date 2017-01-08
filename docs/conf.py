@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+import os, sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 #
 # Foobar documentation build configuration file, created by
 # sphinx-quickstart on Sun Jan  8 15:28:24 2017.

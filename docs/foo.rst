@@ -9,7 +9,8 @@ Foo
 Usage
 -----
 
-.. code:: python
+.. code:: pycon
+
     >>> import foobar
     >>> foobar.foo()
     'foo'
